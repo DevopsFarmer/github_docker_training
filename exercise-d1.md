@@ -3,6 +3,7 @@
 1. Init a git repo named streaming-app ( bare repo )
 ```
 mkdir streaming-app
+cd streaming-app
 git init
 ```
 2. Add a Readme.md file and commit with message "Readme file added"
